@@ -29,3 +29,10 @@
 <img align="left" width="26px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" width="26px" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
+<br>
+
+---
+### Playing on Spotify :headphones:
+
+[<img src="https://spotify-now-playing-8uxcae9o6-diego3008.vercel.app/api/spotify-playing" width="350"/>]()
