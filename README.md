@@ -35,4 +35,4 @@
 ---
 ### Playing on Spotify :headphones:
 
-[<img src="https://spotify-now-playing-8uxcae9o6-diego3008.vercel.app/api/spotify-playing" width="350"/>]()
+![Spotify](https://spotify-now-playing-mu-sandy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
