@@ -1,4 +1,4 @@
-### Hi Diego Rubalcava here 👋
+# Hi Diego Rubalcava here 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DARLec187?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/DARLec187)
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I h8 :avocado:
 
 ---
-### :rocket: Coding
+## :rocket: Coding
 
 <img align="left" width="26px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  
@@ -33,6 +33,6 @@
 <br>
 
 ---
-### Playing on Spotify :headphones:
+## Playing on Spotify :headphones:
 
 ![Spotify](https://spotify-now-playing-mu-sandy.vercel.app/api/spotify?background_color=0d1117&border_color=CC4B93)
