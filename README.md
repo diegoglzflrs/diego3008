@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
-**diego3008/diego3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi Diego Rubalcava here 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/DARLec187?color=1DA1F2&logo=Twitter&style=for-the-badge)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
