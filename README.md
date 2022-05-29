@@ -36,3 +36,9 @@
 ## Playing on Spotify :headphones:
 
 ![Spotify](https://spotify-now-playing-mu-sandy.vercel.app/api/spotify?background_color=0d1117&border_color=CC4B93)
+<br>
+
+---
+## Stats :chart_with_upwards_trend:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=cobalt)
