@@ -1,8 +1,7 @@
-# Hi Diego Rubalcava here 👋
+<img src="./Diego Rubalcava.png">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DARLec187?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/DARLec187)
 
-<img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="700">
 
 ---
 ## :computer: Software engineering student :pencil2:
