@@ -1,6 +1,5 @@
 <img src="./Diego Rubalcava.png">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DARLec187?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/DARLec187)
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego3008&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
@@ -40,3 +39,18 @@
 ---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b5a3hntw937vkqd221wbtdj4x&cover_image=true&theme=default&bar_color=19be71&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
+---
+## Connect with me  
+
+<div align="center"><a href="https://www.linkedin.com/in/diego-rubalcava/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/diego3008" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/druba3008/?hl=es-la" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+</div> 
