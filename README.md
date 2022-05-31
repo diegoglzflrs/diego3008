@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DARLec187?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/DARLec187)
 
-
----
-## :computer: Software engineering student :pencil2:
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego3008&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
+### :computer: Software engineering student :pencil2:
 
 ### Here are some ideas to get you started :boom: :
 
@@ -15,29 +15,28 @@
 - ⚡ Fun fact: I h8 :avocado:
 
 ---
-## :rocket: Coding
+## My Skill Set  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 
-<img align="left" width="26px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
- 
-<img align="left" width="26px" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 
-<img align="left" width="26px" alt="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 
-<img align="left" width="26px" alt="Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 
-<img align="left" width="26px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="left" width="26px" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 <br>
 
 ---
 ## Playing on Spotify :headphones:
 
-![Spotify](https://spotify-now-playing-mu-sandy.vercel.app/api/spotify?background_color=0d1117&border_color=CC4B93)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b5a3hntw937vkqd221wbtdj4x&cover_image=true&theme=default&bar_color=19be71&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
-
----
-## Stats :chart_with_upwards_trend:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=cobalt)
