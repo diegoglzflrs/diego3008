@@ -38,7 +38,5 @@
 <br>
 
 ---
-## Playing on Spotify :headphones:
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b5a3hntw937vkqd221wbtdj4x&cover_image=true&theme=default&bar_color=19be71&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
