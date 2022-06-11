@@ -1,7 +1,7 @@
 <img src="./Diego Rubalcava.png">
 
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego3008&show_icons=true&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego3008&show_icons=true&theme=radical&layout=compact)
 ![github stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
 ### :computer: Software engineering student :pencil2:
 
