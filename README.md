@@ -1,7 +1,7 @@
 <img src="./Diego Rubalcava.png">
 
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego3008&show_icons=true&theme=radical&layout=compact)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego3008&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
 ### :computer: Software engineering student :pencil2:
 
@@ -37,7 +37,7 @@
 <br>
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b5a3hntw937vkqd221wbtdj4x&cover_image=true&theme=novatorem&bar_color=auto_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b5a3hntw937vkqd221wbtdj4x&cover_image=true&theme=novatorem&bar_color=19be71&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
 ---
 ## Connect with me  
