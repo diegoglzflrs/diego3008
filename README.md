@@ -2,7 +2,7 @@
 
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego3008&show_icons=true&theme=radical&layout=compact)
-![github stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
 ### :computer: Software engineering student :pencil2:
 
 ### Here are some ideas to get you started :boom: :
