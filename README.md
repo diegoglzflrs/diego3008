@@ -1,8 +1,8 @@
 <img src="./Diego Rubalcava.png">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3008&langs_count=7&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=diego3008&show_icons=true&theme=radical&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=cobalt)
 ### :computer: Software engineering student :pencil2:
 
 ### Here are some ideas to get you started :boom: :
@@ -17,8 +17,17 @@
 ## My Skill Set  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+ 
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJs" height="50" /> 
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="NextJs" height="50" /> 
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="NextJs" height="50" /> 
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="NextJs" height="50" /> 
 
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
